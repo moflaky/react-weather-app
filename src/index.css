@@ -32,7 +32,7 @@ h1 {
 
 .app:before {
   content: "";
-  background: url("./assets/sunset.jpg") no-repeat;
+  background: url("./assets/sunset.jpg") no-repeat center center/cover;
   position: absolute;
   min-height: 900px;
   width: 100%;
